@@ -30,7 +30,7 @@ Follow the instructions in the script that helps you change your RAM in the game
 - Play Project Zomboid
 
 ## 🗺️ Roadmap
-- [ ] NA
+- [ ] No other confirmed future releases
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
