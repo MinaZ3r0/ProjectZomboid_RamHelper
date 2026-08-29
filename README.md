@@ -17,11 +17,6 @@ Follow the instructions in the script that helps you change your RAM in the game
 ## 🖼️ The tool in action:
 <img width="737" height="507" alt="image" src="https://github.com/user-attachments/assets/69fafd06-50cf-4b5a-8a90-5dc58f53a306" />
 
-```
-![Uploading image.png…]()
-
-```
-
 ## 🛠️ Tech Stack
 - Frameworks/Libraries: Bash, Powershell
 
