@@ -15,6 +15,8 @@ Follow the instructions in the script that helps you change your RAM in the game
 - Optional backup of .json file
 
 ## 🖼️ The tool in action:
+[YouTube Video Demo](https://youtu.be/Akzw5QpEeOE)
+
 <img width="737" height="507" alt="image" src="https://github.com/user-attachments/assets/69fafd06-50cf-4b5a-8a90-5dc58f53a306" />
 
 ## 🛠️ Tech Stack
